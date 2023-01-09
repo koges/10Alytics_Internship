@@ -1,1 +1,1 @@
-# 10Alytics_Internship
+# 1_10Alytics_Internship_DataScienceJobSalaries
